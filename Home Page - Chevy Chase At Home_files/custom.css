@@ -1,0 +1,52 @@
+body {
+	color: black;
+	background-color: white;
+	font-family: Verdana, Sans-Serif;
+	font: Verdana;
+	font-size: 16px;
+	margin: 0px;
+	padding: 0px;
+	height:100%;
+	text-align: left;
+}
+.ue-date {
+	clear: left;
+	width: 100px;
+	float: left;
+	text-align: right;
+        font-size: 10px;
+}
+.ltblue {color: #00b0f0;
+}
+.blue {color: #0000ff;
+}
+.red {color: #cc0000;
+}
+.center {text-align: center;}
+
+.off {list-style-type: none;}
+
+.small {
+	font-size: 12px;
+}
+H4 {
+	text-align: center; 
+	color: #0000ff; 
+	font-size: 16px; 
+	font-weight: bold;
+}
+H5 {
+	text-align: left; 
+	color: #0000ff; 
+	font-size: 16px; 
+	font-weight: bold;
+}
+a:link, a:visited, a:active {color: #cc0000; text-decoration: underline; font-weight: bold;}
+.subfolder a:link, .subfolder a:visited, .subfolder a:active {color: #e8e8e8;}
+a:hover {text-decoration: underline; color: #000000; font-weight: bold;}
+
+.admin-page-wrapper #content_column { width:850px; }
+.calendar-grid-notification { font-size: 12px;}
+.calendar-grid-link a { font-size: 12px;}
+
+.manager-table td a { font-size:10px; font-weight: normal;}

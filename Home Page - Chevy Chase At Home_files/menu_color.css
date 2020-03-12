@@ -1,0 +1,19 @@
+ul.site-menu ul.sub-menu li {background-color:#f1f1f1;border:none;}
+.site-menu li { background-color:#b8010e;}
+.site-menu li a {color:#FFFFFF !important;}
+.site-menu li a span{}
+.site-menu li:hover{color:#b8010e !important;}
+.site-menu li:hover{ background-color:#81020b; color:#FFFFFF;}
+.site-menu li.selected-menu-item{ background-color:#81020b;color:#FFFFFF !important;}
+ul.vertical.site-menu li.sub-parent:hover {background-color:#81020b; color:#FFFFFF; }
+ul.sub-menu { background-color:#FFFFFF; }
+ul.site-menu ul.sub-menu li span a {color:#000000 !important;}
+ul.site-menu ul.sub-menu li:hover {background-color:#81020b;}
+ul.site-menu ul.sub-menu li span a:hover {background-color:transparent;}
+ul.vertical.site-menu li span span { color:#FFFFFF; }
+ul.vertical.site-menu li span span:hover {color:#FFFFFF !important;}
+ul.site-menu ul.sub-menu li span a:hover{color:#FFFFFF !important;background-color:transparent;}
+ul.site-menu ul.sub-menu li span a {background-color:transparent;}
+ul.site-menu ul.sub-menu li.menu-separator {background-color:#81020b; }
+.site-menu li:hover ul { border:2px solid #FFFFFF;padding-right:10px; }
+

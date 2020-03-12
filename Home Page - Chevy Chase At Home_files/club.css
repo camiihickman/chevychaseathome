@@ -1,0 +1,51 @@
+.template-wrapper { 
+	width:960px;
+}
+#header_cell { 
+	background-image:none;
+	background-color:rgb(204, 0, 0);
+}
+body { 
+	color:Black;
+	font-family:'Times New Roman', Times, serif;
+	font-size:18px;
+	background-attachment:fixed;
+	background-image:url('//s3.amazonaws.com/ClubExpressWebFiles/backgrounds/full_images/abstract/25i.jpg');
+	background-repeat:no-repeat;
+	background-size:cover;
+}
+a { 
+	color:#cc0000;
+	font-family:Verdana, Geneva, sans-serif;
+	text-decoration:underline;
+	font-size:14px;
+}
+h1 { 
+	color:#cc0000;
+	font-size:20px;
+	font-family:Verdana, Geneva, sans-serif;
+	font-weight:bold;
+	background-color:#ffffff;
+}
+h2 { 
+	color:#ffffff;
+	font-family:Verdana, Geneva, sans-serif;
+	font-weight:bold;
+	background-color:#cc0000;
+}
+#header_cell.mobile-header { 
+	height:94px;
+	background-color:rgb(204, 0, 0);
+}
+.layout-wrapper { 
+	width:1040px;
+}
+#layout_wrapper { 
+	width:1040px;
+}
+#left_column { 
+	width:150px;
+}
+#content_column { 
+	width:890px;
+}

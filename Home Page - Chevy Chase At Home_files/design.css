@@ -1,0 +1,42 @@
+
+body {
+	font-family:arial;
+}
+h1,h2,h3 {
+	font-family: 'Lato', sans-serif ;
+	font-weight:bold;
+	background-color:transparent ;
+	text-shadow:none !important;
+}
+h1 {
+	width:98%;
+	padding:0px;
+	margin-top:0px;
+	font-size:26px;
+}
+
+h2 {
+	margin-top:20px;
+	width:98%;
+	padding:3px 0 3px 0px;
+	font-size:22px;
+
+}
+
+h3 {
+	margin-top:20px;
+	width:98%;
+	padding-left:0px;
+	font-size:20px;
+
+}
+
+
+.ce-button {
+	font-size:13px;
+	border-radius:5px;
+	padding:5px 8px 5px 8px;
+}
+
+
+

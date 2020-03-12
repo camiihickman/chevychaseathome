@@ -1,0 +1,57 @@
+body {
+	margin: 4px;
+	background-color:white !important;
+background-image:none !important;
+}
+
+td,th,span, h1, h2, h3, fieldset, legend, select, input, label {
+	background:white !important;
+	font-size:13pt !important;
+}
+#page_tools {
+display:none;
+}
+th.calendar-grid-day-header, .calendar-grid-title tr td,.calendar-grid-title a,.calendar-grid-day, .calendar-grid-day div, .calendar-grid-day a{
+	font-size:6pt !important;
+	-webkit-print-color-adjust: exact !important;
+	font-family:Arial,sans-serif;
+}
+label {
+	font-size:10pt !important;
+}
+h1 {
+	font-size:18pt !important;
+	font-weight:bold;
+}
+h2 {
+	font-size:15pt !important;
+	font-weight:bold;
+}
+h3 {
+	font-size:14pt !important;
+	font-weight:bold;
+}
+.no-print {
+	display:none !important;
+}
+/*
+a:link, a:visited { 
+	color: #520; 
+	background: transparent; 
+	font-weight: bold; 
+	text-decoration: underline; 
+}
+a:link:after, a:visited:after { 
+	content: " (" attr(href) ") "; 
+font-size: 90%; 
+}
+*/
+
+/*
+.ui-dialog {
+	height:auto;
+	width:auto;
+	top:50px;
+	left:50px;
+}
+	*/
