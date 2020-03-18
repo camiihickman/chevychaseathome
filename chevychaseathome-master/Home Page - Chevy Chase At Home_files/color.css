@@ -1,0 +1,85 @@
+/*
+	main color scheme file
+	should pretty much contain only colors and bg images used to apply colors
+	some common stuff from styles and menus should be here as well, to avoid needing moe specific files
+*/
+#layout_wrapper {
+border-color:#b8010e;
+
+}
+.color-1 {
+	color:#000000;
+}
+body, .bg-color-1 {
+	background-color:#FFFFFF;
+}
+header,footer,.bg-color-2 {
+	background-color:#b8010e;
+}
+.color-2 {
+	color:#b8010e;
+}
+.bg-color-3 {
+	background-color:#959595;
+}
+.color-3 {
+	color:#959595;
+}
+.bg-color-4 {
+	background-color:#b7b7b7;
+}
+.color-4 {
+	color:#b7b7b7;
+}
+.manager-table th, .admin-table th {
+background-color:#959595;
+color:#FFFFFF;
+}
+h1 {
+background-color:#b8010e;
+text-shadow:1px 1px 2px #000000;
+	color:#FFFFFF;
+}
+h2 {
+background-color:#b8010e;
+text-shadow:1px 1px 2px #000000;
+	color:#FFFFFF;
+}
+h3 {
+	color:#000000;
+}
+
+#panel_links a:hover {
+	background-color:#b8010e !important;
+}
+#vertical_container {
+	background-color:#FFFFFF;
+	border:1px solid #000000;
+}
+.vertical.control-panel-link,.control-panel-link {
+	color:#000000;
+	background-position: 0px -285px;
+}
+.vertical.checklist-link {
+	color:#000000;
+}
+.welcome-message {
+	color:#000000 !important;
+}
+ul.site-menu ul.sub-menu li {background-color:#b8010e;border:none;}
+.site-menu li {background-color:#b8010e;}
+.site-menu li:hover{ background-color:#620d13; }
+.site-menu li.selected-menu-item { background-color:#b8010e;}
+ul.sub-menu { background-color:#FFFFFF; }
+ul.site-menu ul.sub-menu li:hover {background-color:#620d13;}
+ul.horizontal.site-menu li.sub-parent:hover { background-color:#b8010e; }
+.site-menu li.menu-separator { background-color:#620d13; }
+ul.site-menu ul.sub-menu li.menu-separator { background-color:#620d13; }	
+header { color:#FFFFFF; }
+.footer-container, .footer-container a, .footer-container span { color:#FFFFFF; }
+.sidebar { 
+	background-color:#555b58;
+}
+.sidebar-title {
+	background-color:#464c4a;
+}

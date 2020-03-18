@@ -1,0 +1,150 @@
+/*body text styles*/
+body{
+  font-size: 18px !important;
+  font-family: "Noto Sans", sans-serif !important;
+  font-weight: normal !important;
+  color: #1f1f1f !important;
+  margin: 10px;
+}
+div{
+  font-size: 18px !important;
+  font-family: "Noto Sans", sans-serif !important;
+  font-weight: normal !important;
+  color: #1f1f1f !important;
+}
+span{
+  font-size: 18px !important;
+  font-family: "Noto Sans," sans-serif !important;
+  font-weight: normal !important;
+  color: #1f1f1f !important;
+}
+strong{
+  font-size: 18px !important;
+  font-weight: bold !important;
+  font-family: "Noto Sans", sans-serif;
+  color: #1f1f1f !important;
+}
+p{
+  margin-top: 18px;
+  font-size: 18px !important;
+  font-weight: normal !important;
+  font-family: "Noto Sans", sans-serif;
+  color: #1f1f1f !important;
+}
+.ue-desc{
+  font-size: 12px !important;
+}
+.ue-month{
+  font-size: 12px !important;
+}
+.ue-day{
+  font-size: 18px !important;
+}
+.ue-datetime{
+  margin-right: 10px;
+}
+
+/*header styles*/
+.header{
+  display: grid;
+  grid-template-columns: 1fr 6fr;
+  margin: auto;
+  width: 100%;
+  max-width: 600px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+.headerlogo{
+  grid-column: 1/2;
+  align-self: center;
+}
+.headertext{
+  grid-column: 2/3;
+  text-align: center;
+  align-content: center;
+}
+header{
+  background-color: #b8000c;
+}
+.header h1{
+  font-family: "Ovo", Garamond, Times, serif;
+  font-size: 36px;
+  text-transform: uppercase;
+  line-height: 1.5em;
+  letter-spacing: .01em;
+  color: white;
+}
+.header h2{
+  font-family: "Ovo", Garamond, Times, serif;
+  font-size: 18px;
+  color: white;
+}
+/*title styles*/
+h1{
+  font-family: "Ovo", Garamond, Times, serif !important;
+  font-size: 36px;
+  color: #1f1f1f ;
+  text-align: center;
+  text-shadow: none;
+  background-color: transparent;
+}
+h2{
+  font-family: "Ovo", Garamond, Times, serif !important;
+  font-size: 24px;
+  color: #1f1f1f;
+  text-shadow: none;
+  background-color: transparent;
+}
+h3{
+  font-family: "Ovo", Garamond, Times, serif;
+  font-size: 18px;
+  color: #1f1f1f;
+  text-shadow: none;
+  background-color: transparent;
+}
+/*navbar styles*/
+.site-menu li{
+  text-transform: uppercase;
+  font-family: "Noto Sans", "Roboto", Helvetica, Arial, sans-serif;
+  font-weight: bold;
+  border-radius: 3px !important;
+}
+#vertical_container{
+  text-transform:uppercase;
+  font-family: "Noto Sans", "Roboto", Helvetica, Arial, sans-serif;
+  font-weight: bold;
+  text-decoration: none !important;
+  border-radius: 3px;
+}
+/*widget text*/
+
+/*page layout*/
+#layout_wrapper{
+  border: 0px !important;
+  background-color: white;
+  background-image: none;
+}
+.accent-box{
+  height: 0px;
+  border: 0px;
+}
+/*content layout*/
+/*grid layout*/
+.grid-item{
+  margin: 20px;
+  text-align: center;
+}
+.grid-item img{
+  width: 100%;
+  max-width: 100%;
+}
+/*2-column grid*/
+.grid-two{
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+}
+/*top grid*/
+.top-grid{
+  display: grid;
+  grid-template-columns: 3fr 1fr;
+}

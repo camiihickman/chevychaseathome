@@ -1,0 +1,19 @@
+header { background-color:transparent; color:#b8000c; }
+footer { background-color:transparent; }
+.footer-container, .footer-container a, .footer-container span { color:#000000; }
+#vertical_container { background-color:#b8000c; border:none; }
+#full_name { color:#FFFFFF ; }
+.vertical.control-panel-link {
+background-position: 0px -258px !important;
+color: #FFFFFF !important;
+}
+.checklist-link {
+	color:#FFFFFF !important;
+}
+#non_member_panel .login-link {
+	color:#FFFFFF; 
+	margin-left:10px;}
+
+.add-me-link { 
+color:#FFFFFF;
+}

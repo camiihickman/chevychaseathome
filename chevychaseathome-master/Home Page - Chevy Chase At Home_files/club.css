@@ -1,0 +1,46 @@
+.template-wrapper {
+	width:960px;
+}
+#header_cell {
+	background-image:none;
+	background-color:rgb(204, 0, 0);
+}
+
+#header_cell.mobile-header {
+	height:94px;
+	background-color:rgb(204, 0, 0);
+}
+.layout-wrapper {
+	width:1040px;
+}
+#layout_wrapper {
+	width:1040px;
+}
+#left_column {
+	width:150px;
+}
+#content_column {
+	width:890px;
+}
+h1{
+  font-family: "Ovo", Garamond, "Cormorant Garamond," "EB Garamond", Times, serif !important;
+  font-size: 24px;
+  color: #1f1f1f ;
+  text-align: center;
+  text-shadow: none;
+  background-color: transparent;
+}
+h2{
+  font-family: "Ovo", Garamond, "Cormorant Garamond," "EB Garamond", Times, serif !important;
+  font-size: 18px;
+  color: #1f1f1f;
+  text-shadow: none;
+  background-color: transparent;
+}
+h3{
+  font-family: "Ovo", Garamond, "Cormorant Garamond," "EB Garamond", Times, serif;
+  font-size: 13px;
+  color: #1f1f1f;
+  text-shadow: none;
+  background-color: transparent;
+}

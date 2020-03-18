@@ -1,0 +1,156 @@
+.accent-box {
+	position:relative;
+	height:5px;
+	margin:2px;
+}
+header {
+	position:relative;
+	width:100%;
+	height:auto;
+	margin-top:3px;
+	margin-bottom:3px;
+
+}
+.watermark {
+	background-color:#FFFFFF;
+}
+.whitewrap {
+	background-color:#FFFFFF;
+}
+footer {
+	background-color:#FFFFFF;
+}
+#layout_wrapper {
+position:relative;
+width:960px;
+margin-left:auto;
+margin-right:auto;
+border-width:2px;
+border-style:solid;
+
+}
+#page_content {
+	margin:5px;
+}
+
+nav {
+position:relative;
+width:100%;
+height:auto;
+margin-bottom:10px;
+}
+.top-line {
+	height:20px;
+}
+#left_column {
+	float: left;
+	width:150px;
+}
+#inner_left {
+		padding: 10px 0 10px 0;
+}
+#inner_content {
+		padding: 0px 0px 10px 0;
+
+}
+
+#content_column {
+	width:810px;
+	float: left;
+	overflow:hidden;
+}
+#user_arrow {
+	background-position:0px -163px;
+}
+#vertical_container {
+	position:relative;
+	width:100%;
+	z-index:4;
+}
+.welcome-message {
+	color:#FFFFFF !important;
+}
+.crumb-trail-container {
+	margin-left:10px;
+}
+.admin-page-wrapper #right_column {
+	display:none;
+}
+
+.admin-page-wrapper #content_column {
+	width:750px; /* replace with default width */
+}
+ul.vertical.site-menu {
+	#background-color:transparent !important;
+}
+.control-panel-link,.checklist-link {
+	white-space:nowrap;
+}
+.member-drop {
+    left: -5px;
+    top: 24px;
+}
+.cb-contain {
+	width:90%;
+	margin:0px auto;
+	overflow:hidden;
+}
+.social-network-panel {
+	float:right;
+	margin-bottom:2px;
+	position:relative;
+	margin-right:5px;
+}
+.crumb-trail-container {
+	float:left;
+	margin-top:3px;
+}
+#share_pop_out {
+
+	right:0px;
+}
+#non_member_panel { margin-left:10px; }
+#non_member_panel .login-link { color:#FFFFFF; }
+.add-me-link { color:#FFFFFF; }
+#cart_link a {
+	background-image:url(/images/storefront/cart_sprite_white.png);
+}
+#favorites_hover {
+	float: left;
+	clear: left;
+	margin-left: 2px;
+	color:#FFF;
+}
+#favorites_hover .material-icons {
+	color: #FFF;
+}
+
+#favorites_hover .edit-favorites-link .material-icons {
+	color: #000;
+}
+
+.material-icons.favorite-icon {
+	font-size: 20px;
+}
+h1{
+  font-family: "Ovo", Garamond, "Cormorant Garamond," "EB Garamond", Times, serif !important;
+  font-size: 24px;
+  color: #1f1f1f ;
+  text-align: center;
+  text-shadow: none;
+  background-color: transparent;
+}
+h2{
+  font-family: "Ovo", Garamond, "Cormorant Garamond," "EB Garamond", Times, serif !important;
+  font-size: 18px;
+  color: #1f1f1f;
+  text-shadow: none;
+  background-color: transparent;
+}
+h3{
+  font-family: "Ovo", Garamond, "Cormorant Garamond," "EB Garamond", Times, serif;
+  font-size: 13px;
+  color: #1f1f1f;
+  text-shadow: none;
+  background-color: transparent;
+}
